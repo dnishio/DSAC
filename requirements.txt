@@ -1,0 +1,3 @@
+chainer==6.5.0
+chainerrl==0.7.0
+pybullet==2.5.7
